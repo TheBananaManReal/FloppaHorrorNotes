@@ -1,0 +1,45 @@
+body
+{
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    background-color: black;
+    padding-top: 10svh;
+}
+
+:root
+{
+    padding-top: 10%;
+}
+a
+{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.title
+{
+    color: red;
+}
+.title,.b
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#coolfont
+{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#imgs
+{
+    max-height: 90px;
+}
+
+.end
+{
+   padding-top: 5%;
+    
+}
